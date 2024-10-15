@@ -1,0 +1,14 @@
+#ex1
+My_age = int(input("Введите  свой возраст:"))
+Friend_age = int(input("Введите возраст друга:"))
+summ_age = ( My_age + Friend_age)
+print ("Сумма ваших возрастов:", summ_age)
+#ex2
+Name = input("Введите ваше имя:")
+Firstname = input("Введите вашу фамилию")
+print(f"Привет, {Name} {Firstname}!")
+#ex3
+soup = "Суп"
+pasta = "Паста"
+Desert = "Дересерт"
+print("Меню:\n1. Суп\n2. Паста\n3. Десерт")
